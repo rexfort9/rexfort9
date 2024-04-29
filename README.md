@@ -5,7 +5,7 @@
 <br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=rexfort9&theme=onedark)](https://github.com/rexfort9/github-profile-trophy)
 <br>
-<img height=165 width=423 src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexfort9&layout=compact&theme=dark" />
+<img height=165 src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexfort9&layout=compact&theme=dark" />
 <img height=165 width=423 src="https://github-readme-stats.vercel.app/api?username=rexfort9&show_icons=true&theme=dark&custom_title=Stats" />
 </a>
 <br>

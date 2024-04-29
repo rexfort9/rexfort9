@@ -12,7 +12,7 @@
 </div>
   <img src="https://github-profile-trophy.vercel.app/?username=rexfort9&theme=onedark&no-frame=true&no-bg=false&margin-w=4" />
   <img height=165 src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexfort9&layout=compact&theme=dark" />
-  <img height=165 src="https://github-readme-stats.vercel.app/api?username=rexfort9&show_icons=true&theme=dark&custom_title=Stats&ring_color=985737" />
+  <img height=165 src="https://github-readme-stats.vercel.app/api?username=rexfort9&show_icons=true&theme=dark&custom_title=Stats&ring_color=c37c59" />
 </div>
 </a>
 <br>

@@ -40,12 +40,9 @@
 ## Contact:
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/devstudding/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+[<img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />](mailto:turkunovdmitrii@gmail.com)
   </a>
-
-  <a href= "mailto:matheussilva706@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="microsoft-outlook logo"  />
+[<img src="https://img.shields.io/badge/linkedin-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>](https:www.linkedin.com/in/dmitriy-turkunov-0416b0252)
   </a>
 [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>](https://t.me/Shaun4tv)
 </div>

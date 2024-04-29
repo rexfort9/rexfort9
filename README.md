@@ -2,9 +2,13 @@
 ### **Hi there, I'm Dmitrii.** <img src="index/coffee-is-love.gif" width="20px">
 **QA Engineer, IT enthusiast & open-minded person.<br>**
 **I build & brake stuff.**
-<br>
-<img height=165 src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexfort9&layout=compact&theme=dark" />
-<img height=165 src="https://github-readme-stats.vercel.app/api?username=rexfort9&show_icons=true&theme=dark&custom_title=Stats" />
+<div align='center'>
+
+<div align="center"> 
+</div>
+  <img height=165 src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexfort9&layout=compact&theme=dark" />
+  <img height=165 src="https://github-readme-stats.vercel.app/api?username=rexfort9&show_icons=true&theme=dark&custom_title=Stats" />
+</div>
 </a>
 <br>
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:8298a9,100:d8d4d4&section=footer&height=120)

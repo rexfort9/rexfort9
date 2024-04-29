@@ -12,6 +12,7 @@
 	</picture>
 </p>
 
+![](./profile-3d-contrib/profile-green-animate.svg)
 <!--
 **rexfort9/rexfort9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

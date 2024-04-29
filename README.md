@@ -7,6 +7,8 @@
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rexfort9&layout=compact&theme=dark)](https://github.com/rexfort9/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rexfort9&show_icons=true&theme=dark&custom_title=Stats&height="165px")
+<img height=200 width=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=rickstaa&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&theme=dark#gh-dark-mode-only" alt="Rick Staa's Language stats" />
+</a>
 <br>
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:8298a9,100:d8d4d4&section=footer&height=120)
 

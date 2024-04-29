@@ -1,5 +1,5 @@
 [![HitCount](https://komarev.com/ghpvc/?username=rexfort9&abbreviated=true&label=Profile%20views&color=646258&style=plastic)](https://github.com/rexfort9)
-### Hi there, I'm Dmitrii. <img src="index/coffee-is-love.gif" width="25px">
+**### Hi there, I'm Dmitrii.** <img src="index/coffee-is-love.gif" width="25px">
 **QA Engineer, IT enthusiast & open-minded person.<br>**
 **I build & brake stuff.**
 <br>

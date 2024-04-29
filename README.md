@@ -3,7 +3,7 @@
 **QA Engineer, IT enthusiast & open-minded person.<br>**
 **I build & brake stuff.**
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rexfort9)](https://github.com/rexfort9/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rexfort9&layout=compact)](https://github.com/rexfort9/github-readme-stats)
 
 
 <!--

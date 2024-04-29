@@ -1,4 +1,4 @@
-<img height=846 width=846 src="index/IMG_1813.PNG" />
+<img height=309 width=846 src="index/IMG_1813.PNG" />
 </a>
 [![HitCount](https://komarev.com/ghpvc/?username=rexfort9&abbreviated=true&label=Profile%20views&color=646258&style=plastic)](https://github.com/rexfort9)
 ### **Hi there, I'm Dmitrii.** <img src="index/coffee-is-love.gif" width="20px">

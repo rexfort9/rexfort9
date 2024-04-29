@@ -12,7 +12,7 @@
 </div>
   <img src="https://github-profile-trophy.vercel.app/?username=rexfort9&theme=onedark&no-frame=true&no-bg=false&margin-w=4" />
   <img height=165 src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexfort9&layout=compact&theme=dark" />
-  <img height=165 src="https://github-readme-stats.vercel.app/api?username=rexfort9&show_icons=true&theme=dark&custom_title=Stats" />
+  <img height=165 src="https://github-readme-stats.vercel.app/api?username=rexfort9&show_icons=true&theme=dark&custom_title=Stats&ring_color=985737" />
 </div>
 </a>
 <br>
@@ -31,7 +31,7 @@
 ### QA:
 <img src="https://skillicons.dev/icons?i=postman,jenkins,docker" />
 
-### OS
+### OS:
 <img src="https://skillicons.dev/icons?i=linux,windows,ubuntu" />
 
 ### Web Apps:

@@ -3,11 +3,7 @@
 <h1 align="center">Hi there, I'm Dmitrii </a>
 <img src="index/coffee-is-love.gif" width="20px"></h1>
 <h3 align="center">QA Engineer, IT enthusiast & open-minded person 🇷🇺</h3>
-<h3**I build & brake stuff.**</h3>
-
-### **Hi there, I'm Dmitrii.** <img src="index/coffee-is-love.gif" width="20px">
-**QA Engineer, IT enthusiast & open-minded person.<br>**
-**I build & brake stuff.**
+<h3 align="center">**I build & brake stuff.**</h3>
 <div align='center'>
 
 <div align="center"> 

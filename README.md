@@ -29,7 +29,7 @@
 <img src="https://skillicons.dev/icons?i=postgres,mysql" />
 
 ### QA:
-<img src="https://skillicons.dev/icons?i=postman,Jenkins,docker" />
+<img src="https://skillicons.dev/icons?i=postman,jenkins,docker" />
 
 ### OS
 <img src="https://skillicons.dev/icons?i=linux,windows,ubuntu" />

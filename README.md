@@ -7,7 +7,7 @@
 <div align='center'>
 
 <div align="center"> 
-  ![](https://github-profile-trophy.vercel.app/?username=matheussilvacydevs&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=matheussilvacydevs&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 </div>
   <img height=165 src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexfort9&layout=compact&theme=dark" />
   <img height=165 src="https://github-readme-stats.vercel.app/api?username=rexfort9&show_icons=true&theme=dark&custom_title=Stats" />

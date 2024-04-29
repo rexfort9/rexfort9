@@ -6,7 +6,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=rexfort9&theme=onedark)](https://github.com/rexfort9/github-profile-trophy)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rexfort9&layout=compact&theme=dark)](https://github.com/rexfort9/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rexfort9&show_icons=true&theme=dark&custom_title=Repo's&#32Stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rexfort9&show_icons=true&theme=dark&custom_title=Repo's&nbspStats)
 <br>
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:8298a9,100:d8d4d4&section=footer&height=120)
 

@@ -42,7 +42,7 @@
 <div align="left">
 [<img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />(mailto:turkunovdmitrii@gmail.com)]
   </a>
-[<img src="https://img.shields.io/badge/linkedin-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>](https:www.linkedin.com/in/dmitriy-turkunov-0416b0252)
+[<img src="https://img.shields.io/badge/linkedin-2CA5E0?style=for-the-badge&logo=linkedin&logoColor=white"/>](https:www.linkedin.com/in/dmitriy-turkunov-0416b0252)
   </a>
 [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>](https://t.me/Shaun4tv)
 </div>

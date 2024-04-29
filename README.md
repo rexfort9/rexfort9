@@ -5,7 +5,7 @@
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rexfort9&layout=compact&theme=dark)](https://github.com/rexfort9/github-readme-stats)
 <br>
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:8298a9,100:f2f2f2&section=footer&height=120)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:8298a9,100:d8d4d4&section=footer&height=120)
 
 <!--
 **rexfort9/rexfort9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

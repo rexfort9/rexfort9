@@ -1,4 +1,4 @@
-[![HitCount](https://komarev.com/ghpvc/?username=rexfort9&label=Profile%20views&color=grey&style=plastic)](https://github.com/rexfort9)
+[![HitCount](https://komarev.com/ghpvc/?username=rexfort9&label=Profile%20views&color=696969&style=plastic)](https://github.com/rexfort9)
 ### Hi there 👋
 
 <!--

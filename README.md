@@ -3,11 +3,26 @@
 **QA Engineer, IT enthusiast & open-minded person.<br>**
 **I build & brake stuff.**
 <br>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rexfort9)](https://github.com/rexfort9/github-readme-stats)
 
 
 <!--
 **rexfort9/rexfort9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+### About me :sunglasses:
+- Прочитал лучшие книги про тестирование; :fire:
+- В тестировании с 2020 года;
+- Актуализировал 450+ тест-кейсов;
+- Умею пилотировать самолёт; :airplane:
+- Обожаю музыку, кино и Stand UP; :musical_note:
+- Занимаюсь боксом с тренером;
+- За 2022 прочитал 18 книг;
+- Собираю кубик Рубика за 1 минуту;
+- Катаю на горных лыжах . :skier:
+
+Мое кредо: Ученье – свет, а не ученье – тьма!
+
 
 Here are some ideas to get you started:
 

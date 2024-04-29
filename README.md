@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there, I'm Dmitrii </a>
 <img src="index/coffee-is-love.gif" width="30px"></h1>
-<h3 align="center">QA Engineer, IT enthusiast & open-minded person 🇷🇺</h3>
+<h3 align="center">QA Engineer, IT enthusiast & open-minded person</h3>
 
 <div align='center'>
 

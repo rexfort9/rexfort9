@@ -25,20 +25,17 @@
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Light%20Bulb.webp" alt="Light Bulb" width="25" height="25" /> I am proactive and enthusiastic: always study tasks in detail and confidently communicate with colleagues. .<br />
 
 ## My Main Stack:
-### DevOps:
-<img src="https://skillicons.dev/icons?i=postman,Allure_Report,docker" />
+### DB:
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
 
-### Database:
-<img src="https://skillicons.dev/icons?i=postgres,php,mysql,mongodb,dynamodb" />
+### QA:
+<img src="https://skillicons.dev/icons?i=postman,Jenkins,docker" />
 
 ### OS
-<img src="https://skillicons.dev/icons?i=windows,linux,kali,redhat,ubuntu,debian" />
+<img src="https://skillicons.dev/icons?i=linux,windows,ubuntu" />
 
-### Mobile:
- <img src="https://skillicons.dev/icons?i=androidstudio,java,kotlin,py,stackoverflow,firebase,gradle&theme=dark" />
- 
-### Web Aplications:
-<img src="https://skillicons.dev/icons?i=vscode,git,github,js,flutter,md,nextjs,nodejs,react,ts,jquery,vercel&theme=dark" />
+### Web Apps:
+<img src="https://skillicons.dev/icons?i=git,github,js,vscode,nodejs" />
 
 </div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8298a9,100:d8d4d4&section=footer&height=120" />

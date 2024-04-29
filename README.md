@@ -41,11 +41,11 @@
 
 <div align="left">
 <a href="mailto:turkunovdmitrii@gmail.com">
-  <img src="https://img.shields.io/badge/Outlook-034fa0?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+<img src="https://img.shields.io/badge/Outlook-034fa0?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
 <a href="https:www.linkedin.com/in/dmitriy-turkunov-0416b0252">
-  <img src="https://img.shields.io/badge/linkedin-0072b1?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/linkedin-0072b1?style=for-the-badge&logo=linkedin&logoColor=white"/>
 <a href="https://t.me/Shaun4tv">
-  <img src="https://img.shields.io/badge/Telegram-24A1DE?style=for-the-badge&logo=telegram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Telegram-24A1DE?style=for-the-badge&logo=telegram&logoColor=white"/>
 </div>
 
 </div>

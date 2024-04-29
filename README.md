@@ -4,15 +4,8 @@
 **I build & brake stuff.**
 <br>
 
-<p align="center" >
-	<picture>
-	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/rexfort9/rexfort9/output-3d-contrib/night.svg" />
-	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rexfort9/rexfort9/output-3d-contrib/day.svg" />
-	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/rexfort9/rexfort9/output-3d-contrib/day.svg" />
-	</picture>
-</p>
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+
 <!--
 **rexfort9/rexfort9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

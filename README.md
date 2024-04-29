@@ -49,7 +49,7 @@
 </div>
 
 </div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8B195,100:355C7D &section=footer&height=120" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8B195,100:C06C84  &section=footer&height=120" />
 </div>
 
 <!--

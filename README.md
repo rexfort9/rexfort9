@@ -37,6 +37,19 @@
 ### Web Apps:
 <img src="https://skillicons.dev/icons?i=git,github,js,vscode,nodejs" />
 
+## Contact:
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/devstudding/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+
+  <a href= "mailto:matheussilva706@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="microsoft-outlook logo"  />
+  </a>
+[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>](https://t.me/Shaun4tv)
+</div>
+
 </div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8298a9,100:d8d4d4&section=footer&height=120" />
 </div>

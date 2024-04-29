@@ -1,8 +1,11 @@
 [![HitCount](https://komarev.com/ghpvc/?username=rexfort9&abbreviated=true&label=Profile%20views&color=646258&style=plastic)](https://github.com/rexfort9)
-### Hi there, I'm Dmitrii.
+### Hi there, I'm Dmitrii. 
+
+<img align="right" width="350" src="https://d585tldpucybw.cloudfront.net/sfimages/default-source/productsimages/teststudio/lp-710x510-case-2-illustration.png"/>
+
+  <img src="steck/wave.gif" width="30px">
 QA Engineer, IT enthusiast & open-minded person.
 <br>
- <img src="steck/wave.gif" width="30px">
 
 <!--
 **rexfort9/rexfort9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

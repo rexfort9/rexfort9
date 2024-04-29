@@ -24,6 +24,22 @@
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" /> My stack: Postman, Javascript, SQL, Python, HTTP, HTML, Figma, Git. <br />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Light%20Bulb.webp" alt="Light Bulb" width="25" height="25" /> I am proactive and enthusiastic: always study tasks in detail and confidently communicate with colleagues. .<br />
 
+## My Main Stack:
+### DevOps:
+<img src="https://skillicons.dev/icons?i=postman,Allure_Report,docker" />
+
+### Database:
+<img src="https://skillicons.dev/icons?i=postgres,php,mysql,mongodb,dynamodb" />
+
+### OS
+<img src="https://skillicons.dev/icons?i=windows,linux,kali,redhat,ubuntu,debian" />
+
+### Mobile:
+ <img src="https://skillicons.dev/icons?i=androidstudio,java,kotlin,py,stackoverflow,firebase,gradle&theme=dark" />
+ 
+### Web Aplications:
+<img src="https://skillicons.dev/icons?i=vscode,git,github,js,flutter,md,nextjs,nodejs,react,ts,jquery,vercel&theme=dark" />
+
 </div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8298a9,100:d8d4d4&section=footer&height=120" />
 </div>

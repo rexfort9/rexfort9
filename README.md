@@ -28,7 +28,7 @@ I build Python tools and automation for engineering workflows, investigate devic
     <td width="50%" valign="top">
       <h3>🚘 Embedded & automotive systems</h3>
       <ul>
-        <li>ECU and TBOX-oriented system diagnostics</li>
+        <li>ECU and black-box system diagnostics</li>
         <li>Remote device access and Linux-based environments</li>
         <li>Cellular modem, network, and service-state investigation</li>
         <li>ADB, shell commands, and system integration workflows</li>

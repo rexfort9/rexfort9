@@ -4,7 +4,6 @@
 
   <a href="https://www.linkedin.com/in/dmiturqa"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:turkunovdmitrii@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-BC8B5E?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=rexfort9&style=flat-square&color=27364a&label=PROFILE+VIEWS" alt="Profile views" />
 </div>
 
 ## About
@@ -40,9 +39,9 @@ I build Python tools and automation for engineering workflows, investigate devic
 
 ## Selected engineering work
 
-### TBOX Modem Diagnostics GUI
+### ECU Modem Diagnostics GUI
 
-*A Python desktop utility for remote diagnostics of an automotive telematics box.*
+*A Python desktop utility for remote diagnostics of an automotive telematics.*
 
 - Connects to a target device over SSH and runs diagnostic commands remotely.
 - Interprets modem responses and presents operator, registration, signal, APN, eSIM profile, and IP-interface information in a readable form.
